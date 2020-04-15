@@ -25,3 +25,7 @@ The order file must be a validly formatted JSON file. (Recommendation: run it th
 Currently, here are the known bugs in the script that need attention:
 
 - Something in the script still makes the *last* section in each module (specified in `order.json`) end up *first* in each notebook. It is unclear why and this needs some further investigation.
+
+## Dependencies
+
+No dependencies beyond the standard Python 3 libraries.

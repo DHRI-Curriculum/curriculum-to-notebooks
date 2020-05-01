@@ -1,6 +1,10 @@
 # Convert DHRI curriculum from markdown files to Jupyter notebooks
 
-Want to run it? Simple: Just type **`python convert-to-notebooks.py`** into your terminal.
+Want to run it? Simple: Just type into the terminal:
+
+```bash
+python convert-to-notebooks.py
+```
 
 It should do two things:
 
